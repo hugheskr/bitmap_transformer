@@ -1,0 +1,22 @@
+{
+  "name": "proj1_bitmap",
+  "version": "1.0.0",
+  "description": "invert colors on a bitmap",
+  "main": "gulp.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kris Hughes, Logan Tegman",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.1.1",
+    "gulp-jshint": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
+    "jshint": "^2.8.0"
+  }
+}
