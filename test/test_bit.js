@@ -6,5 +6,5 @@ describe('transforming function', function() {
     var testArr = [1, 2, 3];
     expect(bit.transforming(0, testArr)).to.eql([254, 253, 252]);
   });
-})
+});
 
